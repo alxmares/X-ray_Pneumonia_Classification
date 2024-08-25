@@ -27,10 +27,15 @@ title: X-ray Pneumonia Classification
 
 ## Key Results
 
-- **Accuracy**: Achieved 95% accuracy on the test set.
-- **Precision**: 93%
-- **Recall**: 96%
-- **F1-Score**: 94%
+
+![Accuracy](https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge) 
+
+![Precision](https://img.shields.io/badge/Precision-93%25-blue?style=for-the-badge) 
+
+![Recall](https://img.shields.io/badge/Recall-96%25-blue?style=for-the-badge) 
+
+![F1-Score](https://img.shields.io/badge/F1--Score-94%25-blue?style=for-the-badge) 
+
 
 These results indicate a high performance of the model in distinguishing between normal and pneumonia-affected X-ray images.
 
