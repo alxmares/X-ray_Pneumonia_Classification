@@ -16,14 +16,6 @@ title: X-ray Pneumonia Classification
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-- **TensorFlow**: Deep learning framework used for building and training the neural network.
-- **Keras**: High-level neural networks API, running on top of TensorFlow, used to simplify model creation.
-- **TPUs (Tensor Processing Units)**: Hardware accelerators designed specifically for machine learning tasks, used to speed up the training process.
-- **Python**: The programming language used for scripting and data manipulation.
-- **Jupyter Notebook**: An interactive environment for writing and running code, visualizing data, and documenting the analysis.
-- **NumPy**: Library used for numerical computations and handling large multi-dimensional arrays and matrices.
-- **Pandas**: Library used for data manipulation and analysis, especially useful for handling structured data.
-- **Matplotlib**: Library used for visualizing the data and results.
 
 ## Key Results
 
@@ -57,3 +49,10 @@ These results indicate a high performance of the model in distinguishing between
 
 ![Sample Images](assets/samples.jpg)
 
+* * *
+
+## 🚀 **Explore More Projects!**
+
+### [📚 Check out all my projects on GitHub Pages](https://alxmares.github.io)
+
+* * *
